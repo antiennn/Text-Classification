@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Rating_classification.iml" filepath="$PROJECT_DIR$/.idea/Rating_classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Text-Classification.iml" filepath="$PROJECT_DIR$/.idea/Text-Classification.iml" />
     </modules>
   </component>
 </project>
